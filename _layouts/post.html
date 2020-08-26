@@ -133,7 +133,6 @@ layout: default
 
     {% include post-nav.html %}
 
-    {% if site.disqus.comments and page.comments %}
     <div>
       <script src="https://utteranc.es/client.js"
             repo="0n1dev/0n1dev.github.io"
@@ -144,7 +143,8 @@ layout: default
             async>
       </script>
     </div>
-      <!--{% include disqus.html %}-->
+    {% if site.disqus.comments and page.comments %}
+      {% include disqus.html %}
     {% endif %}
 
     </div> <!-- #post-extend-wrapper -->
