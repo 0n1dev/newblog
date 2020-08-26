@@ -1,9 +1,9 @@
 ---
-title: [Game Hacking] 게임 해킹 시작
+title: \[Game Hacking\] 게임 해킹 시작
 author: hkx2r0i
 date: 2020-08-26 23:22:00 +0800
 categories: [Security, Game Hacking]
-tags: [Refactoring]
+tags: [Game Hacking]
 math: true
 ---
 
