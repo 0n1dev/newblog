@@ -134,7 +134,17 @@ layout: default
     {% include post-nav.html %}
 
     {% if site.disqus.comments and page.comments %}
-      {% include disqus.html %}
+    <div>
+      <script src="https://utteranc.es/client.js"
+            repo="0n1dev/0n1dev.github.io"
+            issue-term="pathname"
+            label="comments"
+            theme="dark-blue"
+            crossorigin="anonymous"
+            async>
+      </script>
+    </div>
+      <!--{% include disqus.html %}-->
     {% endif %}
 
     </div> <!-- #post-extend-wrapper -->
