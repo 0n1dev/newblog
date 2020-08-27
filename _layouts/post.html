@@ -14,12 +14,8 @@ layout: default
     <div class="post pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4">
 
       <h1 data-toc-skip>{{ page.title }}</h1>
-      <div style="text-align: center;">
-        <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}"
-          target="_blank">
-          <img
-            src="https://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg" />
-        </a>
+      <div style="text-align: right;">
+        <img src="https://views.whatilearened.today/views/github/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url | remove: '/' }}.svg" />
       </div>
 
       <div class="post-meta text-muted d-flex flex-column">
