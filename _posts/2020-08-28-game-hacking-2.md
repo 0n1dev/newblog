@@ -1,7 +1,7 @@
 ---
 title: Game Hacking - 치트엔진 튜토리얼
 author: hkx2r0i
-date: 2020-08-26 23:22:00 +0800
+date: 2020-08-28 20:23:00 +0900
 categories: [Security, Game Hacking]
 tags: [Game Hacking]
 math: true
@@ -9,7 +9,7 @@ math: true
 
 # Game Hacking - 치트엔진 튜토리얼
 
-> <font color="red">경고, 허가 받지 않은 공간에서 테스트를 금지합니다.</font>
+> <font color="red">경고, 허가 받지 않은 공간에서 테스트를 금지합니다.</font> 악의적인 목적으로 이용할 시 발생할 수 있는 모든 법적 책임은 이용자 본인에게 있습니다.
 
 ## 1.0 게임 해킹의 다양한 기법
 
@@ -78,5 +78,5 @@ math: true
 
 치트엔진을 설치 후 실행시키면 아래와 같은 화면을 볼 수 있다.
 
-![치트엔진](./asset/img/game-hacking-2/1.png)
+![치트엔진](/asset/img/game-hacking-2/1.png)
 
