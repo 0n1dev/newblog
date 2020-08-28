@@ -15,7 +15,7 @@ layout: default
 
       <h1 data-toc-skip>{{ page.title }}</h1>
       <div style="text-align: right;">
-        <img src="https://views.whatilearened.today/views/github/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove: '/' }}.svg" />
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{ site.url | replace: '/','%2F' | replace: ':', '%3A' }}{{ page.url | replace: '/','%2F' }}&count_bg=%23646464&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=view&edge_flat=false"/>
       </div>
 
       <div class="post-meta text-muted d-flex flex-column">
