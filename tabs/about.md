@@ -10,7 +10,7 @@ title: About
 ![배너](https://develop.or.kr/assets/img/avatar.png)<br />
 
 Birth: 1993.11.01<br />
-Developer: 2020.01.13 ~ int<br />
+Developer: 2020.01.13 ~ ing<br />
 
 ---
 # Skill
