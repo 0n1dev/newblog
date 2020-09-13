@@ -25,13 +25,13 @@ DI는 말 그대로 "의존성 주입"을 뜻하며, 스프링 프레임워크�
 
 프레임워크 레벨의 관리를 통해 개발자들은 객체들간의 의존성에 신경을 덜 쓰고 Coupling을 줄일 수 있으며, 높은 재사용성과 가독성 있는 코드를 만들수 있으며 이것을 **제어의 역전(IoC)**이라 부름.<br />
 
-## AOP(Aspect-Oriented Programming)
+### AOP(Aspect-Oriented Programming)
 
 AOP는 공통된 관심사(Aspect)로 구분된 로직을 필요한 위치에 동적으로 삽입가능하도록 해주는 기술.<br />
 
 반복되는 코드를 분리하여 중복된 코드를 줄여주고 핵심 로직에 대한 가독성을 높여주는 역할.<br />
 
-## PSA(Portable Service Abstraction)
+### PSA(Portable Service Abstraction)
 
 PSA는 환경의 변화와 관계없이 일관된 방식의 기술로의 접근 환경을 제공하려는 추상화 구조.<br />
 
